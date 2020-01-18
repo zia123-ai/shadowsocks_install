@@ -6,6 +6,8 @@
     4、支持以多次运行来安装多个版本，且各个版本可以共存（注意端口号需设成不同）；
     5、若已安装多个版本，则卸载时也需多次运行（每次卸载一种）；
     6、Shadowsocks-Python 和 ShadowsocksR 安装后不可同时启动（因为本质上都属 Python 版）。
+### 安装
+    wget --no-check-certificate -O ss.sh https://raw.githubusercontent.com/zia123-ai/shadowsocks_install/master/ss.sh
 #### 启动脚本后面的参数含义，从左至右依次为：启动，停止，重启，查看状态。
 
     Shadowsocks-Python 版：
