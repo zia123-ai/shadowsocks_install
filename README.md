@@ -28,5 +28,5 @@
     /etc/shadowsocks-go/config.json
     Shadowsocks-libev 版：
     /etc/shadowsocks-libev/config.json
-###### 搬运
+###### [搬运自](https://www.gigsgigscloud.com/cn/tutorials/)
 
